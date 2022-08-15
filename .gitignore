@@ -1,0 +1,15 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+docs/data_explanation.xlsx
+docs/ボケのデザインパターン2022.pdf
+docs/ボケ方AIとの違い.pdf
